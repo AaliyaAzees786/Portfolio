@@ -1,0 +1,92 @@
+
+
+* {
+	margin: 0;
+	padding: 0;
+	background-color: #19282F;
+}
+
+body {
+    font-size: 14px;
+	background: #1f1f1f;
+	color: #ffffff;
+	width: 66%;
+	margin: 0 auto;
+}
+
+.click{
+	padding: 50px;
+}
+
+h1{
+	color: white;
+}
+
+.home{
+    font-size: 14px;
+    color: aqua;
+	padding: 50px 50px 50px;
+}
+
+.about_me{
+	color:#FFC900;
+    font-size: 18px;
+	padding: 50px;
+}
+
+.subheading{
+	color: white;
+}
+
+#edu{
+	padding: 50px;
+}
+
+.education{
+	color:#B3541E;
+}
+
+.institution{
+	color: #9C0F48;
+}
+
+.contact{
+	padding: 50px;
+	color: cadetblue;
+	font-size: 16px;
+}
+
+.fa-phone:hover{
+	transition: all 0.5s ease-in-out;
+	color: #FF5959;
+	size: 20px;
+}
+
+.fa-envelope:hover{
+	transition: all 0.5s ease-in-out;
+	color: #FF5959;
+	size: 20px;
+}
+
+.fa-linkedin:hover{
+	transition: all 0.5s ease-in-out;
+	color: #FF5959;
+	size: 20px;
+}
+
+.myskills{
+	color: #FFCC1D;
+    padding: 50px;
+	size: 16px;
+}
+
+.skillstable{
+	border:solid white;
+}
+
+
+
+
+
+
+
